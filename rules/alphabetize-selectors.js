@@ -21,7 +21,6 @@ module.exports = function (context) {
             var rule = currentRule();
 
             if (!rule) {
-                context.reportNode, 'What the fuck is this: ' + context.getSource(node);
                 return;
             }
 
