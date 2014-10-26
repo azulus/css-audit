@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Jeremy Stanley",
+    "email": "git@azulus.com",
+    "url": "http://github.com/azulus"
+  },
+  "name": "css-audit",
+  "description": "a css syntax tree linter",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/azulus/css-audit.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "css": "*"
+  }
+}
